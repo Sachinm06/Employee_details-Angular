@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url("./assets/pexels-pixabay-290595.jpg");
+    background-size: cover;
+
+}
+header{
+    font-weight: 700;
+}
+
+footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+height: 30px;
+}
