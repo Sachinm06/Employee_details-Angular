@@ -1,18 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Titan+One&display=swap');
 
 body {
     background-image: url("./assets/pexels-pixabay-290595.jpg");
     background-size: cover;
 
 }
-header{
+
+header {
     font-weight: 700;
+    font-family: 'Titan One', cursive;
 }
 
-footer{
-position: fixed;
-bottom: 0;
-width: 100%;
-text-align: center;
-height: 30px;
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 30px;
 }

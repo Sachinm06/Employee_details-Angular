@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
-    width: 400px;
+    width: 440px;
     background-color: #fff;
     border-radius: 20px;
     padding: 30px 20px;
@@ -41,12 +41,15 @@ button {
 #file {
     display: none;
 }
+h3{
+    font-family: 'Oswald', sans-serif;
 
+}
 /* -------------main--------------- */
 
 .main {
     height: 25rem;
-    width: 800px;
+    width: 900px;
     background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
     box-shadow: 5px 5px 15px -1px rgba(0, 0, 0, 0.75);
